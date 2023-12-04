@@ -1,1 +1,1 @@
-# leraning_project
+# learning_project
